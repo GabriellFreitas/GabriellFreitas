@@ -13,4 +13,4 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </div><br/>
 
- Sou apaixonado por tecnologias, e atualmente estou estudando Análise e desenvolvimento de sistema.
+ Sou apaixonado por tecnologias e atualmente estou estudando análise e desenvolvimento de sistema.
